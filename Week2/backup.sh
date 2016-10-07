@@ -2,11 +2,13 @@
 
 echo Starting BackUp
 
-SRCDIR=/backup
+FILENAME=backup.tar
 
-DESDIR=/Week1
+SRCDIR=/EAA.Comp.2016/Week1
 
-tar-cpzf$DESDIR/$backup.tar $SRCDIR
+DESDIR=/EAA.Comp.2016/backup
+
+tar-cpzf$DESDIR/$FILENAME $SRCDIR
 
 
 echo Finishing BackIp
