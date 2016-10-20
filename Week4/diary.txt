@@ -16,3 +16,7 @@ date -%m-%d-%Y
 dsgyfgksdfkasdfkasdj 
 date -%m-%d-%Y 
 scdcsc 
+10-20-2016 
+gdhgdk 
+10-20-2016 
+Did you get the date waorking in this txt 
